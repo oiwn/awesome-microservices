@@ -1,6 +1,9 @@
 # Awesome Microservices
 
-Links related to the [microservice architecture](http://microservices.io)
+Links related to the **Microservices Archtecture** (aka **μ-services**)
+
++ [Microservice Architecture](http://microservices.io)
++ [Microservices](http://martinfowler.com/articles/microservices.html)
 
 + [Python](#python)
 + [JavaScript](#javascript)
@@ -17,6 +20,7 @@ Links related to the [microservice architecture](http://microservices.io)
 
 + **Frameworks**
   + http://loopback.io - is the leading open source, enterprise-ready Node.js framework for helping developers to        create APIs integrated with legacy and next gen backends that at the same time enables mobile and micro services     architectures.
+  + http://senecajs.org - Seneca is a microservices toolkit for Node.js. It helps you write clean, organized code        that you can scale and deploy at any time.
 + **Articles**
   + http://dejanglozic.com/2014/10/07/sharing-micro-service-authentication-using-nginx-passport-and-redis/ - Sharing     micro-service authentication using Nginx, Passport and Redis
 
