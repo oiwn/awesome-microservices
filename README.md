@@ -25,7 +25,10 @@ Articles, Frameworks and tools for languages:
   + http://senecajs.org - Seneca is a microservices toolkit for Node.js. It helps you write clean, organized code        that you can scale and deploy at any time.
 + **Articles**
   + http://dejanglozic.com/2014/10/07/sharing-micro-service-authentication-using-nginx-passport-and-redis/ - Sharing     micro-service authentication using Nginx, Passport and Redis
-
+  + Auth0 - An Introduction to Microservices
+    + https://auth0.com/blog/2015/09/04/an-introduction-to-microservices-part-1/
+    + https://auth0.com/blog/2015/09/13/an-introduction-to-microservices-part-2-API-gateway/
+    + https://auth0.com/blog/2015/10/02/an-introduction-to-microservices-part-3-the-service-registry/
 
 ## Scala
 
